@@ -2,6 +2,8 @@
 このリポジトリはPyCon mini Shizuoka 2021「[トーク4 - Raspberry Pi 4でリアルタイムなディープラーニング](https://shizuoka.pycon.jp/2021/info)」の補足資料です。<br>
 トーク内で紹介したモデルのサンプルスクリプトと訓練済みモデルを格納しています。<br>
 
+https://user-images.githubusercontent.com/37477845/142657300-e6f231fb-1188-4602-a980-3f49cdcc1231.mp4
+
 # Requirements
 * Tensorflow 2.6.0 or Later
 * onnxruntime 1.8.0 or Later
