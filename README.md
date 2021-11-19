@@ -7,30 +7,30 @@
 * onnxruntime 1.8.0 or Later
 * OpenCV 3.4.2 or Later
 * Pillow 6.1.0 or Later
-* 
+
 # 01．クラス分類(Image Clasification)
-![01](https://user-images.githubusercontent.com/37477845/101269862-7b787700-37b6-11eb-8006-2b7c42402f09.gif)<br>
-ソースコード：[01_classification_demo.py](https://github.com/Kazuhito00/Qiita-AdventCalendar-20201212-OpenCV/blob/main/01_classification_demo.py)<br>
-実行方法：python 01_classification_demo.py<br>
+<img src="https://user-images.githubusercontent.com/37477845/142651114-cdd515db-8ae1-4e35-873d-010ab6d5942e.gif" loading="lazy" width="40%"><br>
+ソースコード：[01_image_classification/demo.py](https://github.com/Kazuhito00/PyCon-mini-Shizuoka-2021/blob/main/01_image_classification/demo.py)<br>
+実行方法：python demo.py<br>
 ライセンス：[Apache-2.0](LICENSE(Apache-2.0))
 
 # 02．物体検出(Object Detection)
-![02](https://user-images.githubusercontent.com/37477845/101269864-7e736780-37b6-11eb-8448-559ae000a3ca.gif)<br>
-ソースコード：[02_classification_demo.py](https://github.com/Kazuhito00/Qiita-AdventCalendar-20201212-OpenCV/blob/main/02_classification_demo.py)<br>
-実行方法：python 02_classification_demo.py<br>
+<img src="https://user-images.githubusercontent.com/37477845/142651124-1eff547b-a0ca-4ce9-a738-46dd38e75330.gif" loading="lazy" width="40%"><br>
+ソースコード：[02_object_detection/demo_onnx.py](https://github.com/Kazuhito00/PyCon-mini-Shizuoka-2021/blob/main/02_object_detection/demo_onnx.py)<br>
+実行方法：python demo_onnx.py<br>
 ライセンス：[Apache-2.0](LICENSE(Apache-2.0))
 
 # 03．顔検出(Face Detection)
-![03](https://user-images.githubusercontent.com/37477845/101269865-816e5800-37b6-11eb-87b6-73d8be6ccc9c.gif)<br>
-ソースコード：[03_face_detection_demo.py](https://github.com/Kazuhito00/Qiita-AdventCalendar-20201212-OpenCV/blob/main/03_face_detection_demo.py)<br>
-実行方法：python 03_face_detection_demo.py<br>
-ライセンス：[MIT](LICENSE(MIT))<br>
+<img src="https://user-images.githubusercontent.com/37477845/142651129-cf775179-2813-4dbd-8e6b-ca15793414d7.gif" loading="lazy" width="40%"><br>
+ソースコード：[03_face_detection/demo_onnx.py](https://github.com/Kazuhito00/PyCon-mini-Shizuoka-2021/blob/main/03_face_detection/demo_onnx.py)<br>
+実行方法：python demo_onnx.py<br>
+ライセンス：[Apache-2.0](LICENSE(Apache-2.0))
 
 # 04．姿勢推定(Pose Estimation)
-![03](https://user-images.githubusercontent.com/37477845/101269865-816e5800-37b6-11eb-87b6-73d8be6ccc9c.gif)<br>
-ソースコード：[03_face_detection_demo.py](https://github.com/Kazuhito00/Qiita-AdventCalendar-20201212-OpenCV/blob/main/03_face_detection_demo.py)<br>
-実行方法：python 03_face_detection_demo.py<br>
-ライセンス：[MIT](LICENSE(MIT))<br>
+<img src="https://user-images.githubusercontent.com/37477845/142651165-eedc542b-f3b3-4844-a2c7-049a6a635950.gif" loading="lazy" width="40%"><br>
+ソースコード：[03_face_detection_demo.py](https://github.com/Kazuhito00/PyCon-mini-Shizuoka-2021/blob/main/04_pose_estimation/demo_onnx.py)<br>
+実行方法：python demo_onnx.py<br>
+ライセンス：[Apache-2.0](LICENSE(Apache-2.0))
 
 
 # Authors
