@@ -137,29 +137,12 @@ keep_topk指定値<br>
 <details>
 <summary>実行時オプション</summary>
 
-* --device<br>
-カメラデバイス番号の指定<br>
-デフォルト：0
-* --file<br>
-動画ファイルの指定 ※指定時はカメラデバイスより優先<br>
-デフォルト：指定なし
-* --width<br>
-カメラキャプチャ時の横幅<br>
-デフォルト：960
-* --height<br>
-カメラキャプチャ時の縦幅<br>
-デフォルト：540
-* --mirror<br>
-VideoCapture()取り込みデータを左右反転するか否か<br>
-デフォルト：指定なし
-* --model_select<br>
-使用モデルの選択<br>
-Saved Model, ONNX：0→Lightning　1→Thunder<br>
-TFLite：0→Lightning(float16)　1→Thunder(float16)　2→Lightning(int8)　3→Thunder(int8)<br>
-デフォルト：0
-* --keypoint_score<br>
-キーポイント表示の閾値<br>
-デフォルト：0.4
+* --model<br>
+モデル格納パス<br>
+デフォルト：model/model_float32.onnx
+* --input_size<br>
+モデルへの入力する画像の一辺のサイズ<br>
+デフォルト：192
 </details>
 ライセンス：[Apache-2.0](LICENSE(Apache-2.0))
 
