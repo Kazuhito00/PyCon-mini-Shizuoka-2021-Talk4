@@ -1,4 +1,4 @@
-# PyCon-mini-Shizuoka-2021
+# PyCon-mini-Shizuoka-2021-Talk4
 このリポジトリはPyCon mini Shizuoka 2021「[トーク4 - Raspberry Pi 4でリアルタイムなディープラーニング](https://shizuoka.pycon.jp/2021/info)」の補足資料です。<br>
 トーク内で紹介したモデルのサンプルスクリプトと訓練済みモデルを格納しています。<br>
 
