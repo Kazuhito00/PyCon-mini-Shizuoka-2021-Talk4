@@ -58,7 +58,7 @@ https://user-images.githubusercontent.com/37477845/142657300-e6f231fb-1188-4602-
 ソースコード：[02_object_detection/demo_onnx.py](https://github.com/Kazuhito00/PyCon-mini-Shizuoka-2021/blob/main/02_object_detection/demo_onnx.py)<br>
 オリジナルリポジトリ：非公開<br>
 　※モデルは公開可能なデータセットのみで訓練したものです<br>
-　※発表資料で映っている動画よりも検出性能が低いです<br>
+　※このリポジトリに同梱しているモデルは、発表資料で映っている動画よりも検出性能が低いです<br>
 ライセンス：[Apache-2.0](LICENSE(Apache-2.0))<br>
 実行方法：python demo_onnx.py<br>
 <details>
