@@ -13,6 +13,7 @@ https://user-images.githubusercontent.com/37477845/142657300-e6f231fb-1188-4602-
 # 01．クラス分類(Image Clasification)
 <img src="https://user-images.githubusercontent.com/37477845/142651114-cdd515db-8ae1-4e35-873d-010ab6d5942e.gif" loading="lazy" width="40%"><br>
 ソースコード：[01_image_classification/demo.py](https://github.com/Kazuhito00/PyCon-mini-Shizuoka-2021/blob/main/01_image_classification/demo.py)<br>
+オリジナルリポジトリ：[Kazuhito00/7segment-display-reader](https://github.com/Kazuhito00/7segment-display-reader)<br>
 ライセンス：[Apache-2.0](LICENSE(Apache-2.0))<br>
 実行方法：python demo.py<br>
 <details>
@@ -55,6 +56,9 @@ https://user-images.githubusercontent.com/37477845/142657300-e6f231fb-1188-4602-
 # 02．物体検出(Object Detection)
 <img src="https://user-images.githubusercontent.com/37477845/142651124-1eff547b-a0ca-4ce9-a738-46dd38e75330.gif" loading="lazy" width="40%"><br>
 ソースコード：[02_object_detection/demo_onnx.py](https://github.com/Kazuhito00/PyCon-mini-Shizuoka-2021/blob/main/02_object_detection/demo_onnx.py)<br>
+オリジナルリポジトリ：非公開<br>
+　※モデルは公開可能なデータセットのみで訓練したものです<br>
+　※発表資料で映っている動画よりも検出性能が低いです<br>
 ライセンス：[Apache-2.0](LICENSE(Apache-2.0))<br>
 実行方法：python demo_onnx.py<br>
 <details>
@@ -92,6 +96,7 @@ NMSの閾値<br>
 # 03．顔検出(Face Detection)
 <img src="https://user-images.githubusercontent.com/37477845/142651129-cf775179-2813-4dbd-8e6b-ca15793414d7.gif" loading="lazy" width="40%"><br>
 ソースコード：[03_face_detection/demo_onnx.py](https://github.com/Kazuhito00/PyCon-mini-Shizuoka-2021/blob/main/03_face_detection/demo_onnx.py)<br>
+オリジナルリポジトリ：[Kazuhito00/YuNet-ONNX-TFLite-Sample](https://github.com/Kazuhito00/YuNet-ONNX-TFLite-Sample)<br>
 ライセンス：[Apache-2.0](LICENSE(Apache-2.0))<br>
 実行方法：python demo_onnx.py<br>
 <details>
@@ -135,6 +140,8 @@ keep_topk指定値<br>
 # 04．姿勢推定(Pose Estimation)
 <img src="https://user-images.githubusercontent.com/37477845/142651165-eedc542b-f3b3-4844-a2c7-049a6a635950.gif" loading="lazy" width="40%"><br>
 ソースコード：[03_face_detection_demo.py](https://github.com/Kazuhito00/PyCon-mini-Shizuoka-2021/blob/main/04_pose_estimation/demo_onnx.py)<br>
+オリジナルリポジトリ：[Kazuhito00/MoveNet-Python-Example)](https://github.com/Kazuhito00/MoveNet-Python-Example)<br>
+　および、[PINTO_model_zoo/115_MoveNet](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/115_MoveNet)<br>
 ライセンス：[Apache-2.0](LICENSE(Apache-2.0))<br>
 実行方法：python demo_onnx.py<br>
 <details>
