@@ -140,8 +140,7 @@ keep_topk指定値<br>
 # 04．姿勢推定(Pose Estimation)
 <img src="https://user-images.githubusercontent.com/37477845/142651165-eedc542b-f3b3-4844-a2c7-049a6a635950.gif" loading="lazy" width="40%"><br>
 ソースコード：[03_face_detection_demo.py](https://github.com/Kazuhito00/PyCon-mini-Shizuoka-2021/blob/main/04_pose_estimation/demo_onnx.py)<br>
-オリジナルリポジトリ：[Kazuhito00/MoveNet-Python-Example)](https://github.com/Kazuhito00/MoveNet-Python-Example)<br>
-　および、[PINTO_model_zoo/115_MoveNet](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/115_MoveNet)<br>
+オリジナルリポジトリ：[Kazuhito00/MoveNet-Python-Example](https://github.com/Kazuhito00/MoveNet-Python-Example) および、[PINTO_model_zoo/115_MoveNet](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/115_MoveNet)<br>
 ライセンス：[Apache-2.0](LICENSE(Apache-2.0))<br>
 実行方法：python demo_onnx.py<br>
 <details>
