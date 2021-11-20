@@ -4,6 +4,8 @@
 
 https://user-images.githubusercontent.com/37477845/142657300-e6f231fb-1188-4602-a980-3f49cdcc1231.mp4
 
+[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/real-time-deep-learning-with-raspberry-pi-4)で静止画版を公開しています。
+
 # Requirements
 * Tensorflow 2.6.0 or Later
 * onnxruntime 1.8.0 or Later
